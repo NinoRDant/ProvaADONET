@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Prova_ADO.NET.props" />
+</Project>
